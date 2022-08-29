@@ -39,7 +39,7 @@
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehanarandara&show_icons=true&locale=en&layout=compact" alt="sehanarandara" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehanarandara&show_icons=true&locale=en" alt="sehanarandara" /></p>
 <img src="https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png">
 
