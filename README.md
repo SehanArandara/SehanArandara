@@ -13,9 +13,9 @@
  <hr>
 
 
-- 🌱 I’m currently learning **MERN , Android Studio ,Python ,dart**
+- 🌱 I’m currently learning **Python ,dart**
 
-- 💬 Ask me about **C , C++ , SQL , HTML , JS , CSS , PHP ,Java**
+- 💬 Ask me about **C , C++ , SQL , HTML , JS , CSS , PHP ,Java ,Kotlin ,MERN Stack ,Android Studio**
 
 - 📫 How to reach me **sdarandara123@gmail.com**
 
