@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  
   
   <h1>
   HII <src="https://user-images.githubusercontent.com/93942615/180059035-8b90d723-c913-448f-bd55-4e02979a51cc.gif" width="30px"/> I'M SEHAN
@@ -13,11 +13,12 @@
  <hr>
 
 
-- 🌱 I’m currently learning **Python ,dart**
+- 🌱 I’m currently learning **Mobile App Development ,DevOps engineerings**
 
 - 💬 Ask me about **C , C++ , SQL , HTML , JS , CSS , PHP ,Java ,Kotlin ,MERN Stack ,Android Studio**
 
 - 📫 How to reach me **sdarandara123@gmail.com**
+- 
 
 <hr>
 
