@@ -8,14 +8,16 @@
   
 </div>
 
+<h3 align="center">Associate Software Engineer</h3>
 <h3 align="center">Software Engineering Undergraduate</h3>
 <p align="Center">S L I I T - Malabe </p>
  <hr>
 
+- 🌱 I’m currently working **Web App Development in enterprise Level**
 
-- 🌱 I’m currently learning **Mobile App Development ,DevOps engineerings**
+- 🌱 I’m currently learning **Web App Development ,DevOps engineerings**
 
-- 💬 Ask me about **C , C++ , SQL , HTML , JS , CSS , PHP ,Java ,Kotlin ,MERN Stack ,Android Studio**
+- 💬 Ask me about **spring boot, Angular ,Java ,Kotlin ,MERN Stack ,Android Studio, jfrog,Maven ,jenkinsC , C++ , SQL , HTML , JS , CSS , PHP**
 
 - 📫 How to reach me **sdarandara123@gmail.com**
 - 
